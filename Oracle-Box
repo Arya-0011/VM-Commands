@@ -1,0 +1,2 @@
+nagivate to windows oracle installation folder of oracle-box and hit this command for VRAM optimization:
+.\VBoxManage.exe modifyvm kali-linux-2023.2-virtualbox-amd64 --vram 256
